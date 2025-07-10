@@ -76,6 +76,23 @@ I am proficient in multiple programming languages and frameworks across frontend
 
 ---
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahzamkidwai&show_icons=true&theme=github_dark&hide_title=true" alt="Ahzam's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahzamkidwai&theme=github-dark" alt="Ahzam's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamkidwai&layout=compact&theme=github_dark" alt="Top Languages Used" />
+</p>
+
+
 ## 📫 Let's Connect
 
 Feel free to reach out to me on [GitHub](https://github.com/) or connect via email.
