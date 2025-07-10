@@ -1,4 +1,11 @@
 # 👋 Hi, I'm Ahzam Naseem Kidwai
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ahzamkidwai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+🎓 A Computer Science Engineering graduate from **Integral University, Lucknow**.
+
 I am proficient in multiple programming languages and frameworks across frontend, backend, mobile development, and dev tools. I love turning ideas into reality through code and constantly learning new technologies to stay ahead in the development world.
 
 ---
@@ -73,8 +80,6 @@ I am proficient in multiple programming languages and frameworks across frontend
 
 ---
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -85,6 +90,7 @@ I am proficient in multiple programming languages and frameworks across frontend
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamkidwai&layout=compact&theme=github_dark" alt="Top Languages Used" />
 </p>
 
+---
 
 ## 📫 Let's Connect
 
@@ -95,6 +101,12 @@ I am proficient in multiple programming languages and frameworks across frontend
 
   <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/D4D03AQHZUnXt6KHL7w/profile-displayphoto-shrink_200_200/0/1716457704522?e=1722470400&v=beta&t=f4YVw3fBEMqKtkS-F9w3SBkZdQLUsRgf0RXLz7z4RRg" width="120" height="120" alt="Ahzam Naseem Kidwai LinkedIn Photo" style="border-radius: 10px;" />
   </a>
 </p>
 
