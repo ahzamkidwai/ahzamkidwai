@@ -85,18 +85,27 @@ I am proficient in multiple programming languages and frameworks across frontend
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahzamkidwai&theme=github-dark" alt="Ahzam's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamkidwai&layout=compact&theme=github_dark" alt="Top Languages Used" />
 </p>
 
 
 ## 📫 Let's Connect
 
-Feel free to reach out to me on [GitHub](https://github.com/) or connect via email.
+<p align="left">
+  <a href="mailto:ahzamnaseem.kidwai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/D4D03AQHZUnXt6KHL7w/profile-displayphoto-shrink_200_200/0/1716457704522?e=1722470400&v=beta&t=f4YVw3fBEMqKtkS-F9w3SBkZdQLUsRgf0RXLz7z4RRg" width="120" height="120" alt="Ahzam Naseem Kidwai LinkedIn Photo" style="border-radius: 10px;" />
+  </a>
+</p>
 ---
 
 _Thank you for visiting my profile!_
