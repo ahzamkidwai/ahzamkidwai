@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Ahzam Naseem Kidwai
-
-🎓 A Computer Science Engineering graduate from **Integral University, Lucknow** with a passion for building robust and scalable applications.
-
 I am proficient in multiple programming languages and frameworks across frontend, backend, mobile development, and dev tools. I love turning ideas into reality through code and constantly learning new technologies to stay ahead in the development world.
 
 ---
@@ -101,11 +98,6 @@ I am proficient in multiple programming languages and frameworks across frontend
   </a>
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/D4D03AQHZUnXt6KHL7w/profile-displayphoto-shrink_200_200/0/1716457704522?e=1722470400&v=beta&t=f4YVw3fBEMqKtkS-F9w3SBkZdQLUsRgf0RXLz7z4RRg" width="120" height="120" alt="Ahzam Naseem Kidwai LinkedIn Photo" style="border-radius: 10px;" />
-  </a>
-</p>
 ---
 
 _Thank you for visiting my profile!_
