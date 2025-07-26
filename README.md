@@ -56,6 +56,18 @@ I am proficient in multiple programming languages and frameworks across frontend
 
 ---
 
+## 🛠️ DevOps & CI/CD Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
+
+---
+
 ## 💾 Databases & Storage
 
 <p align="left">
@@ -101,12 +113,6 @@ I am proficient in multiple programming languages and frameworks across frontend
 
   <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/D4D03AQHZUnXt6KHL7w/profile-displayphoto-shrink_200_200/0/1716457704522?e=1722470400&v=beta&t=f4YVw3fBEMqKtkS-F9w3SBkZdQLUsRgf0RXLz7z4RRg" width="120" height="120" alt="Ahzam Naseem Kidwai LinkedIn Photo" style="border-radius: 10px;" />
   </a>
 </p>
 
