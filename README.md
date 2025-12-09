@@ -1,121 +1,78 @@
-# 👋 Hi, I'm Ahzam Naseem Kidwai
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahzamkidwai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ahzam+Naseem+Kidwai;Full-Stack+%7C+Mobile+%7C+Blockchain+Enthusiast;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
-🎓 A Computer Science Engineering graduate from **Integral University, Lucknow**.
+<br/>
 
-I am proficient in multiple programming languages and frameworks across frontend, backend, mobile development, and dev tools. I love turning ideas into reality through code and constantly learning new technologies to stay ahead in the development world.
+<img src="https://user-images.githubusercontent.com/74038190/216644733-75d3a5f0-3e74-4c47-b7d7-73f0c2f8c1e1.gif" width="800" />
 
----
+</div>
 
-## 🧠 Languages & Programming
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
-## 🌐 Web Development
-
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/NativeBase-3E3E3E?style=for-the-badge&logo=nativescript&logoColor=white" />
-</p>
-
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native_CLI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-</p>
-
----
-
-## 🛠️ DevOps & CI/CD Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
-
----
-
-## 💾 Databases & Storage
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
-
----
-
-## 🧰 Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
+<h2 align="center">🚀 Full-Stack & Mobile Developer | Learning Blockchain & Solidity 🧱</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahzamkidwai&show_icons=true&theme=github_dark&hide_title=true" alt="Ahzam's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamkidwai&layout=compact&theme=github_dark" alt="Top Languages Used" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
   <a href="mailto:ahzamnaseem.kidwai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ahzamkidwai">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+<br>
 
-_Thank you for visiting my profile!_
+### 🔥 Tech Stack & Tech I'm Passionate About
+
+```text
+Frontend     : React.js • Next.js • Tailwind • Shadcn/UI • TypeScript
+Mobile       : React Native • Expo • Android Studio
+Backend      : Node.js • Express.js
+Databases    : MongoDB • Firebase • MySQL
+DevOps       : Docker • Git • GitLab CI • Linux • Shell
+Currently Learning : Solidity • Foundry • Hardhat • Web3.js
+```
+
+<br>
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,firebase,git,docker,linux,vscode,androidstudio,postgres,prisma" />
+</p>
+
+<br>
+
+### 📊 GitHub Stats (Animated)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahzamkidwai&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahzamkidwai&theme=github-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahzamkidwai&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656459-94bf1fef-f610-4c97-9d53-94d95c12e87f.gif" width="80%"/>
+
+### 💬 Let's Connect & Build Something Awesome Together!
+
+<p align="center">
+  <a href="mailto:ahzamnaseem.kidwai@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=&message=Email&color=D14836&style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahzam-naseem-kidwai-54b998242/">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ahzamkidwai&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+</div>
