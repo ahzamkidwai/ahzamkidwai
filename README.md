@@ -32,7 +32,7 @@ Mobile       : React Native • Expo • Android Studio
 Backend      : Node.js • Express.js
 Databases    : MongoDB • Firebase • MySQL
 DevOps       : Docker • Git • GitLab CI • Linux • Shell
-Currently Learning : Solidity • Foundry • Hardhat • Web3.js
+Currently Learning : Solidity • Foundry • Web3.js
 ```
 
 <br>
